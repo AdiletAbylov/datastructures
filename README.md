@@ -16,8 +16,10 @@ This repo contains Elixir implementation of basic data structures and algorithms
 
 ## How to run tests
 
-Install Elixir using this giude https://elixir-lang.org/install.html
+Install Elixir using this giude https://elixir-lang.org/install.html.
+
 Clone this repo.
+
 Then run in shell:
 
 ```shell
