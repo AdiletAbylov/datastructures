@@ -8,11 +8,12 @@ This repo contains Elixir implementation of basic data structures and algorithms
 2. Queue
 3. Priority Queue
 4. Heap
+5. Binary Tree
+6. Binary Tree Search
 
 ## What to implement
 
-1. Binary Tree
-2. Binary Tree Search
+
 
 ## How to run tests
 
